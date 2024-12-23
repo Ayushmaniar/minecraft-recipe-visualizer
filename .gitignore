@@ -1,0 +1,5 @@
+minecraft_item_images/*
+node_modules/*
+package-lock.json
+recipes.json
+graph.json
